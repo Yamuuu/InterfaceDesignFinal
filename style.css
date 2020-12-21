@@ -1,0 +1,30 @@
+:root{
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+.container{
+    position: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container .btn{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+#mainPlayer{
+    display: none;
+
+}
+
+
+#mainPlayer img{
+    height: 350px;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
